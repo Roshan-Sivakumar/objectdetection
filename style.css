@@ -1,0 +1,23 @@
+body{
+    background-image: url('depositphotos_18782653-stock-photo-empty-brown-room.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.heading{
+    background-color: deepskyblue;
+    color: white;
+    padding: 15px;
+    margin: 20px;
+    width: 50%;
+    border-radius: 60px;
+}
+
+.status{
+    color:black;
+    background-color: red;
+    padding: 10px;
+    width: 30%;
+    font-weight: 600;
+    border-radius: 10px;
+}
